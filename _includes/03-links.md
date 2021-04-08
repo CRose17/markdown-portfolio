@@ -1,1 +1,1 @@
-[ GitHub ] (https://github.com/CRose17)
+[GitHub](https://github.com/CRose17)
